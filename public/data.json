@@ -1,0 +1,65 @@
+[
+  {
+    "id": "8",
+    "category": "Meidcal",
+    "name": "DIALYSIS\n",
+    "img": "https://i.ibb.co/FBSb35B/Patient-dialysis-treatment.jpg",
+    "description": "In medicine, dialysis is the process of removing excess water, solutes, and toxins from the blood in people whose kidneys can no longer perform these functions naturally. This is referred to as renal replacement therapy. The first successful dialysis was performed in 1943.",
+    "fee": 500
+  },
+  {
+    "id": "2",
+    "category": "Meidcal",
+    "name": "Pharmacology",
+    "img": "https://i.ibb.co/MByhGpq/pharmacy-vs-pharmacology.jpg",
+    "description": "Pharmacology is a branch of medicine, biology and pharmaceutical sciences concerned with drug or medication action, where a drug may be defined as any artificial, natural, or endogenous molecule which exerts a biochemical or physiological effect on the cell, tissue, organ, or organism",
+    "fee": 80
+  },
+  {
+    "id": "3",
+    "category": "Meidcal",
+    "name": "Cardiology\n",
+    "img": "https://i.ibb.co/rFfws27/Shot-of-a-surgeon-looking-at-a-monitor-in-an-operating-room.jpg",
+    "description": "Cardiology is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease and electrophysiology.",
+    "fee": 60
+  },
+  {
+    "id": "4",
+    "category": "Meidcal",
+    "name": "Eye surgery\n",
+    "img": "https://i.ibb.co/M8qxrFF/Eye-Surgery-Machine-Application-s.jpg",
+    "description": "Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist. The eye is a very fragile organ, and requires extreme care before, during, and after a surgical procedure to minimise or prevent further damage.",
+    "fee": 1000
+  },
+  {
+    "id": "5",
+    "category": "Meidcal",
+    "name": "Virology",
+    "img": "https://i.ibb.co/DrBbwK2/b6.jpg",
+    "description": "Virology publishes papers that provide advances to the understanding of virus biology. We have been publishing the results of basic research in all branches of virology for over 60 years. The journal welcomes submissions on virus replication, virus-host biology, viral pathogenesis, immunity to viruses, virus structure, and virus evolution and ecology. Papers should be of broad interest to the community of virologists. We also publish state-of-the-art invited reviews from experts in the field.",
+    "fee": 200
+  },
+  {
+    "id": "6",
+    "category": "Meidcal",
+    "name": "Dental surgery",
+    "img": "https://i.ibb.co/XXbY839/Dentist-doing-a-dental-treatment-and-intervention-on-senior-woman-Elderly-patient-during-medical-exa.jpg",
+    "description": "Our clinical team works with attention to detail which is critical to ensuring safe and effective oral care for our patients. Even seemingly routine procedures such as preparing and placing fillings, tooth extractions, or administering anesthetics are done with the highest care and accuracy. With our team of dental experts, we offer reliable oral health care services that you can trust. Get in touch with us for a consultation today!",
+    "fee": 250
+  },
+  {
+    "id": "7",
+    "category": "Meidcal",
+    "name": "corona vaccine",
+    "img": "https://i.ibb.co/xzGk9NZ/covid-vaccination.jpg",
+    "description": "Web development is the work involved in developing a Web site for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+    "fee": 0
+  }, {
+  "id": "1",
+  "category": "Meidcal",
+  "name": "Therapia",
+  "img": "https://i.ibb.co/F5rF6pw/banner5.jpg",
+  "description": "Therapia is reimagining access to quality in-person physiotherapy in the comfort of home. Our platform helps patients connect with the appropriate licensed physiotherapist in their community to receive 1-on-1 care at home, on their own time.",
+  "fee": 50
+}
+]

@@ -1,0 +1,21 @@
+.attraction-bg{
+    background-color: #F4F6F9;
+}
+.icon-stye{
+    height: 60px;
+    width: 60px;
+    color: #1d7dce;
+    background-color: white;
+    padding: 18px;
+    border-radius: 5px;
+
+}
+
+.icon-stye:hover{
+    background-color: #1d7dce;
+    color: white;
+    cursor: pointer;
+
+
+
+}
